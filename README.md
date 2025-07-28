@@ -18,6 +18,7 @@ This project is a tourism guide focused on Jaipur, the capital city of Rajasthan
 *   HTML
 *   CSS
 
+
 ## CSS Files
 
 *   `body.css`: Styles for the body of the page.
@@ -27,6 +28,7 @@ This project is a tourism guide focused on Jaipur, the capital city of Rajasthan
 *   `slide.css`: Styles for slideshow elements (if any).
 *   `text.css`: Styles for text elements.
 *   `video.css`: Styles for the video and map section.
+*   
 
 ## External Resources
 
