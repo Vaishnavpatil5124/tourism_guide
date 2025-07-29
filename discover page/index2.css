@@ -57,3 +57,29 @@ button a {
 body{
     margin-top:100px ;
 }
+
+/* article */
+.article_content{
+    background-color: aqua;
+    font-weight: 500 ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.article_content2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+.form-sec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 1em;
+}
