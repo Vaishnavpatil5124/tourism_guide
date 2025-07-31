@@ -1,7 +1,7 @@
 .container1 {
     display: flex;
-    flex-wrap: wrap;
-    justify-content:space-between;
+    flex-wrap: nowrap;
+    justify-content:center;
     gap: 1rem;
     padding: 20px;
 }
@@ -24,7 +24,7 @@
 .video video {
     width: 100%;
     /* max-width: 510px; */
-    height: auto;
+    height: 80%;
     border-radius: 10px;
     object-fit: cover;
 }
@@ -59,6 +59,6 @@
 #end{
     margin-top: 50px;
     text-align: center;
-    padding: 20px;
+    padding-top: 20px;
     left: 0;
 }
