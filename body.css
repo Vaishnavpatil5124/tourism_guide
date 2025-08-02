@@ -6,6 +6,7 @@ body{
 footer{
     background-color: brown;
     padding-right: 5em;
+    border-radius: 3%;
    
 }
 #foot-bar{
@@ -22,5 +23,10 @@ footer{
     
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: oblique;
+    flex: 1 1 200px;
+
+}
+#me {
+    padding-left:45%;
 
 }
