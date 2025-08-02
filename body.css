@@ -5,4 +5,22 @@ body{
 }
 footer{
     background-color: brown;
+    padding-right: 5em;
+   
+}
+#foot-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+    padding-left: 5em;
+    
+}
+#credits{
+    text-align: center;
+    text-decoration: bisque;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+
 }
