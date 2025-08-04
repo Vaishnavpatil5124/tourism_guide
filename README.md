@@ -6,47 +6,53 @@ This project is a tourism guide focused on Jaipur, the capital city of Rajasthan
 
 ## Features
 
-*   **Famous Places:** A grid layout showcasing popular tourist spots in Jaipur with images and names.
-*   **Historical Context:** Information about the history and significance of Jaipur, including its establishment and nickname, "The Pink City."
-*   **Video Showcase:** A video highlighting the culture and heritage of Rajasthan.
-*   **Interactive Map:** An embedded Google Maps view of Jaipur for easy navigation.
-*   **Booking & Travel:** Links to booking and travel resources.
-*   **Public Grievances:** A link to the Public Grievances portal.
+- **Famous Places:** A grid layout showcasing popular tourist spots in Jaipur with images and names.
+- **Historical Context:** Details about Jaipur’s foundation, cultural importance, and its nickname, "The Pink City."
+- **Video Showcase:** An embedded video highlighting Rajasthan’s culture and heritage.
+- **Interactive Map:** Embedded Google Maps view of Jaipur for easy trip planning.
+- **Booking & Travel:** Direct links to booking platforms and travel support.
+- **Public Grievances:** Link to the official Public Grievances portal.
 
 ## Technologies Used
 
-*   HTML
-*   CSS
-
+- HTML
+- CSS
 
 ## CSS Files
 
-*   `body.css`: Styles for the body of the page.
-*   `cards.css`: Styles for the tourist spot cards.
-*   `grid.css`: Styles for the grid layout.
-*   `nav-bar.css`: Styles for the navigation bar.
-*   `slide.css`: Styles for slideshow elements (if any).
-*   `text.css`: Styles for text elements.
-*   `video.css`: Styles for the video and map section.
-*   
+- `body.css`: Base styling for the page body.
+- `cards.css`: Layout and design for tourist spot cards.
+- `grid.css`: Responsive grid layout.
+- `nav-bar.css`: Top navigation styling.
+- `slide.css`: (For slideshow or carousel elements.)
+- `text.css`: Typography and text formatting.
+- `video.css`: Styles for video and map embedding.
 
 ## External Resources
 
-*   **Fonts:**
-    *   Playfair Display from Google Fonts
-    *   Cinzel from Google Fonts
-*   **Images:** Images sourced from various online sources and local files.
-*   **Video:** "Rajasthan Through Huan's Eyes"
-*   **Map:** Embedded Google Maps of Jaipur.
+- **Fonts:**
+  - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+  - [Cinzel](https://fonts.google.com/specimen/Cinzel)
+- **Images:** Curated from online sources and local files.
+- **Video:** “Rajasthan Through Huan’s Eyes” from the Rajasthan Tourism YouTube channel.
+- **Map:** Google Maps embed of Jaipur.
 
 ## Setup
 
-1.  Clone the repository.
-2.  Open `index.html` in your web browser.
+1. Clone or download this repository.
+2. Open `index.html` in your preferred browser.
+3. Explore the interactive guide!
+
+## Installation Dependencies
+
+No additional installations required. The site runs on modern web browsers.
 
 ## Credits
 
-*   Content and information gathered from various tourism websites and historical sources.
-*   Video sourced from rajasthan tourism youtube channel.
-*   Map provided by Google Maps.
+- Content compiled from official Rajasthan tourism websites and historical archives.
+- Embedded video courtesy of Rajasthan Tourism.
+- Google Maps integration via public embed.
 
+## License
+
+This project is open-source under the [MIT License](LICENSE).
